@@ -1,0 +1,14 @@
+.env
+.env.development
+.env.production
+
+node_modules
+build
+dist
+
+package-lock.json
+
+.DS_Store
+.idea
+.vscode
+.history
