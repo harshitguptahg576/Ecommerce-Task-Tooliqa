@@ -49,3 +49,32 @@ JWT_SECRET=your_jwt_secret
 SWAGGER_API_URL = "http://localhost:3001"
 
 ```
+
+### Installation
+
+Install dependencies:
+
+```bash
+
+npm install
+or
+yarn install
+
+```
+
+### Database Setup
+
+Create a local PostgreSQL database and update the `DATABASE_URL` in your `.env` file.
+
+### Run the Application
+
+```bash
+
+npm run build
+npm start
+
+```
+
+### API Documentation
+
+Access the API documentation at `http://localhost:3001/api-docs`
